@@ -13,3 +13,5 @@ CREATE TABLE Employees (
 SELECT * FROM `employees`;
 
 SELECT * FROM `employees`;
+
+SELECT * FROM `employees`;
